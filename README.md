@@ -111,12 +111,6 @@ The analysis identified clear market responses to major global events:
 - Matplotlib/Seaborn (Data Visualization)
 - Custom modules for data splitting
 
-## Team Contributors
-
-- **Tina Azad Arjastan**: Scatter Plot Analysis
-- **Fabio Rodrigues**: Line Graph and Box Plot Analysis
-- **Camilo Sheldon Barreto**: Correlation Heatmap Analysis
-- **Chids Osuala**: Machine Learning Model Implementation
 
 ## Results Summary
 
